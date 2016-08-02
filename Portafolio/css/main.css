@@ -1,0 +1,11 @@
+body{
+	font-family: "Arima Madurai";
+	background-image: url(../img/fondo1-a.jpg);
+	background-size: cover;
+}
+.list-menu-name{
+	padding-top: 15%;
+}
+.list-menu{
+	padding-top: 10%;
+}
